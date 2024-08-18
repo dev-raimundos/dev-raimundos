@@ -67,12 +67,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dev-raimundos&show_icons=true&count_private=true&hide_border=true" />
 </div>  
 
-<br/>  
 
-<br/>  
-
-<br/>  
-
-<br/>  
-
-<br />
