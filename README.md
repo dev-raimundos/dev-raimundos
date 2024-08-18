@@ -55,7 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-raimundos&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff" style="width: 100%;" />
   </div>
 </td>
-</tr></table>  
+//</tr></table>  
 
 <br/>  
 
@@ -70,4 +70,4 @@
 
 <br />
 
-----
+
