@@ -1,4 +1,5 @@
-<br\>
+<br/>
+
 ### <div align="center">I'm Marques, a full-time full-stack developer coding since 2019 👨‍💻</div>  
 
 <br/>  
