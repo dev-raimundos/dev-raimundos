@@ -1,17 +1,17 @@
-## Hey 👋, I'm Raimundos Marques, coding sice 2019 🖥️  
+## Hey 👋, I'm Raimundos Marques, coding since 2019 🖥️  
   
 
 <a href="https://github.com/dev-raimundos" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/dev-raimundos" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/devraimundos" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/raimundos_marques" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -47,27 +47,19 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div style="display: flex; justify-content: space-around;">
+  <div style="width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-raimundos&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" style="width: 100%;" />
+  </div>
+  <div style="width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-raimundos&hide_border=true&layout=compact&theme=dark" align="center" style="width: 100%;" />
+  </div>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-raimundos&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-raimundos&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
+<br/>
 
 <br />
 
 ----
+
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
