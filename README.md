@@ -1,5 +1,5 @@
-<br/>  
 ## Hey 👋, I'm Raimundos Marques, coding since 2019 🖥️  
+
 <br/>  
 
 <a href="https://github.com/dev-raimundos" target="_blank">
@@ -59,16 +59,4 @@
 </td>
 </tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
