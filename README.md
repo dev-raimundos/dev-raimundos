@@ -1,6 +1,9 @@
+### <div align="center">I'm Marques, a full-time full-stack developer coding since 2019 👨‍💻</div>  
+
+<br/>  
 
 ## My Skill Set  
-<table>
+<table style="background-color: #ffffff; border-radius: 10px; padding: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1);">
   <tr>
     <td valign="top" width="33%">
       ### Frontend  
