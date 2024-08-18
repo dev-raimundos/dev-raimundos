@@ -47,15 +47,10 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev-raimundos&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 95%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-raimundos&hide_border=true&layout=compact&theme=dark" align="left" style="width: 95%" />
-
-</td></tr></table>  
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-raimundos&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-raimundos&hide_border=true&layout=compact&theme=dark" align="right" style="width: 48%" />
+</div>
 
 <br/>
 
