@@ -8,8 +8,6 @@
 
 <br/>  
 
-
-## Github Stats  
 <table><tr>
 <td valign="top" width="50%">
   <div style="background-color: #0d1117; padding: 10px; border-radius: 5px;">
