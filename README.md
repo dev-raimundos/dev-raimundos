@@ -15,11 +15,7 @@
 
 ###
 
-<h1 align="center"></h1>
-
-###
-
-<h3 align="left">Front-End</h3>
+<h3 align="center">Front-End</h3>
 
 ###
 
@@ -43,7 +39,7 @@
 
 ###
 
-<h3 align="left">Back-End</h3>
+<h3 align="center">Back-End</h3>
 
 ###
 
@@ -71,7 +67,7 @@
 
 ###
 
-<h3 align="left">Database</h3>
+<h3 align="center">Database</h3>
 
 ###
 
@@ -85,11 +81,7 @@
 
 ###
 
-<h1 align="center"></h1>
-
-###
-
-<h3 align="left">🔥  Status:</h3>
+<h3 align="center">🔥  Status:</h3>
 
 ###
 
