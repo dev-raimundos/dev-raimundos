@@ -21,7 +21,7 @@ O projeto combina **Clean Architecture** e **Modular Monolith**, utilizando isol
 
 🔗 **github.com/dev-raimundos/CoeurApi**
 
-### 📱 Coeur Mobile _(em desenvolvimento)_
+### 📱 Coeur Mobile
 
 Cliente mobile do ecossistema Coeur desenvolvido com **Angular + Ionic + Capacitor**, consumindo a Coeur API e compartilhando a maior parte da lógica de negócio entre diferentes plataformas.
 
