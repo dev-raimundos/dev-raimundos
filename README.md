@@ -13,13 +13,9 @@
 
 ### 🌐 Coeur API
 
-Uma API REST construída em **ASP.NET Core** que serve como base para meus projetos pessoais e para o estudo de arquiteturas modernas.
-
-O projeto combina **Clean Architecture** e **Modular Monolith**, utilizando isolamento entre módulos através de múltiplos projetos (.csproj), com foco em baixo acoplamento, escalabilidade e facilidade de manutenção.
-
-É o projeto onde concentro meus estudos sobre arquitetura de software e experimento novas abordagens antes de aplicá-las em projetos futuros.
-
-🔗 **github.com/dev-raimundos/CoeurApi**
+- Uma API REST construída em **ASP.NET Core** que serve como base para meus projetos pessoais e para o estudo de arquiteturas modernas.
+- O projeto combina **Clean Architecture** e **Modular Monolith**, utilizando isolamento entre módulos através de múltiplos projetos (.csproj), com foco em baixo acoplamento, escalabilidade e facilidade de manutenção.
+- É o projeto onde concentro meus estudos sobre arquitetura de software e experimento novas abordagens antes de aplicá-las em projetos futuros.
 
 ### 📱 Coeur Mobile
 
