@@ -11,7 +11,7 @@
 
 ## Projetos Pessoais
 
-### Coeur API
+### 🌐 Coeur API
 
 Uma API REST construída em **ASP.NET Core** que serve como base para meus projetos pessoais e para o estudo de arquiteturas modernas.
 
