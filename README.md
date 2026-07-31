@@ -1,16 +1,3 @@
-Atualmente trabalho desenvolvendo aplicações corporativas, administrando ambientes Linux, realizando deploys com Docker, participando de revisões de código e contribuindo para decisões técnicas e de arquitetura.
-
-## No que estou trabalhando
-
-- Desenvolvimento e evolução de sistemas corporativos de grande porte;
-- Construção de APIs REST com ASP.NET Core;
-- Arquiteturas modernas utilizando Clean Architecture, Modular Monolith e Entity Framework Core;
-- Desenvolvimento de aplicações web com Angular;
-- Deploy, monitoramento e administração de aplicações conteinerizadas com Docker;
-- Administração de servidores Linux e ambientes de produção;
-
-
-
 ## Projetos em destaque
 
 ### 🌐 Coeur API
