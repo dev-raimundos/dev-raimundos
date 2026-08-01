@@ -1,4 +1,4 @@
-Atualmente trabalho desenvolvendo aplicações corporativas, administrando ambientes Linux, realizando deploys com Docker, participando de revisões de código e contribuindo para decisões de arquitetura. 
+Atualmente desenvolvo aplicações corporativas, administro ambientes Linux, realizo deploys com Docker, participo de revisões de código e contribuo para decisões de arquitetura. 
 
 ## No que estou trabalhando 
 - Desenvolvimento e evolução de sistemas corporativos de grande porte;
