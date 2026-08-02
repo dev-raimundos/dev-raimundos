@@ -17,7 +17,7 @@ O projeto combina **Clean Architecture** e **Modular Monolith**, utilizando isol
 
 ### 📱 Coeur Mobile
 
-Cliente mobile do ecossistema Coeur desenvolvido com **Angular + Ionic + Capacitor**, consumindo a Coeur API e compartilhando a maior parte da lógica de negócio entre diferentes plataformas.
+Cliente mobile do ecossistema Coeur desenvolvido com **MAUI Blazor Hybrid**, consumindo a Coeur API e compartilhando a maior parte da lógica de negócio entre diferentes plataformas.
 
 O objetivo é construir uma aplicação moderna para Android explorando os recursos nativos da plataforma sem abrir mão da produtividade do Angular.
 #
